@@ -41,7 +41,7 @@ class TravelChatbot {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
-                    'Authorization': 'Bearer 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'
+                    'Authorization': 'Bearer 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'
                 },
                 body: JSON.stringify({
                     model: 'deepseek/deepseek-chat-v3-0324:free',
